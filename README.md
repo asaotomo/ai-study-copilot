@@ -49,8 +49,8 @@
 ### 应用商店安装（推荐，自动更新）
 | 平台 | 下载链接 | 说明 |
 | :--- | :--- | :--- |
-| **Chrome** | [点击前往 Chrome Web Store](https://chrome.google.com/webstore/detail/eeionpcnekmdcaakfpdmfflejnfkeoab) | 稳定版，自动更新 |
-| **Firefox** | [点击前往 Firefox Add-ons](https://addons.mozilla.org/zh-CN/firefox/addon/ai智能答题助手-专业版/) | 隐私保护更好 |
+| **Chrome** | [点击前往 Chrome Web Store](https://chrome.google.com/webstore/detail/eeionpcnekmdcaakfpdmfflejnfkeoab) | 谷歌浏览器专用 |
+| **Firefox** | [点击前往 Firefox Add-ons](https://addons.mozilla.org/zh-CN/firefox/addon/ai智能答题助手-专业版/) | 火狐浏览器专用 |
 
 ---
 
