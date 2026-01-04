@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Model-DeepSeek_V3-blue?style=flat-square)
 ![](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-**全能抓取 · 深度解析 · 辅助学习**
+**一键抓取 · 深度解析 · 学习更轻松**
 
 [功能特性](#-功能特性) • [安装指南](#-安装指南) • [使用说明](#-使用说明) • [赞助与支持](#-赞助与支持) • [免责声明](#-免责声明)
 
