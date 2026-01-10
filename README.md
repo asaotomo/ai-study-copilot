@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Model-DeepSeek%20%7C%20OpenAI%20%7C%20Local-blue?style=flat-square)
 ![](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-**一键抓取 · 多模型支持 · 权益可找回 · 学习更轻松**
+**一键抓取 · 深度解析 · 学习更轻松**
 
 [功能特性](#-功能特性) • [安装指南](#-安装指南) • [使用说明](#-使用说明) • [赞助与支持](#-赞助与支持) • [免责声明](#-免责声明)
 
