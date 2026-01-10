@@ -71,7 +71,8 @@
     - 点击悬浮球打开面板，勾选需要解析的题目。
     - 点击 **“🚀 发送选中数据给 AI”**。
     <img width="1316" height="836" alt="使用方法1" src="https://github.com/user-attachments/assets/dc9bc2e8-1713-4a04-bca7-c04dee095af4" /> 
-    <img width="1452" height="811" alt="image" src="https://github.com/user-attachments/assets/293f5d0d-2374-4a2a-a8f5-f3c6b62ebf74" />
+    <img width="1440" height="915" alt="image" src="https://github.com/user-attachments/assets/dcf3bc5e-ef55-48dd-ace6-137c03ccfc8b" />
+
     
 5. **深度扫描 (针对无接口页面)**：
     - 如果没有抓到包，在面板中开启 **“HTML 页面深度扫描”** 开关。
