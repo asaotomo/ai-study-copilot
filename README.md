@@ -142,4 +142,4 @@
 ---
 
 ## 📄 License
-[MIT License](LICENSE) © 2026 Hx0 Security Team
+[MIT License](LICENSE) © 2026 Hx0 Team
