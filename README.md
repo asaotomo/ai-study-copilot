@@ -1,7 +1,7 @@
 # ⚡️ AI 智能答题助手 (AI Study Copilot) - V1.2 专业版
 
 ![](https://img.shields.io/badge/Chrome_Store-v1.2.1-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
-![](https://img.shields.io/badge/Firefox_AMO-v1.2.1-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)
+![](https://img.shields.io/badge/Firefox_AMO-v1.2.8-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)
 ![](https://img.shields.io/badge/Model-DeepSeek%20%7C%20OpenAI%20%7C%20Local-blue?style=flat-square)
 ![](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
