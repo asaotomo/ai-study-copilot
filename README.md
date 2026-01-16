@@ -46,10 +46,13 @@
 
 ## 📥 安装指南
 ### 应用商店安装（推荐，自动更新）
-| 平台 | 下载链接 | 说明 |
-| :--- | :--- | :--- |
-| **Chrome / Edge / 360安全浏览器** | [点击前往 Chrome Web Store](https://chrome.google.com/webstore/detail/eeionpcnekmdcaakfpdmfflejnfkeoab) | 谷歌/Edge/360安全浏览器专用 |
-| **Firefox** | [点击前往 Firefox Add-ons](https://addons.mozilla.org/zh-CN/firefox/addon/ai智能答题助手-专业版/) | 火狐浏览器专用 |
+
+| 平台                              | 下载链接                                                     | 说明                              |
+| --------------------------------- | ------------------------------------------------------------ | --------------------------------- |
+| **Chrome / Edge / 360安全浏览器** | [点击前往 Chrome Web Store](https://chrome.google.com/webstore/detail/eeionpcnekmdcaakfpdmfflejnfkeoab) | 谷歌/Edge/360安全浏览器电脑端专用 |
+| **Firefox**                       | [点击前往 Firefox Add-ons](https://addons.mozilla.org/zh-CN/firefox/addon/ai/) | 火狐浏览器电脑端专用              |
+| **Firefox 移动版**                | [点击前往 Firefox Add-ons 移动版](https://addons.mozilla.org/zh-CN/firefox/addon/ai智能答题助手-专业版/) | 火狐浏览器Andriod 手机/平板端专用 |
+
 
 > **手动离线安装**：如无法访问商店，可在 Release 页面下载 `.crx` (Chrome) 或 `.xpi` (Firefox) 文件拖拽安装。
 
