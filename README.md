@@ -1,3 +1,5 @@
+
+
 # ⚡️ AI 智能答题助手 (AI Study Copilot) - V2.0 专业版
 
 ![](https://img.shields.io/badge/Chrome_Store-v2.0.1-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
@@ -74,7 +76,7 @@
 | --------------------------------- | ------------------------------------------------------------ | --------------------------------- |
 | **Chrome / Edge / 360安全浏览器** | [点击前往 Chrome Web Store](https://chrome.google.com/webstore/detail/eeionpcnekmdcaakfpdmfflejnfkeoab) | 谷歌/Edge/360安全浏览器电脑端专用 |
 | **Firefox**                       | [点击前往 Firefox Add-ons](https://addons.mozilla.org/zh-CN/firefox/addon/ai%E6%99%BA%E8%83%BD%E7%AD%94%E9%A2%98%E5%8A%A9%E6%89%8B-%E4%B8%93%E4%B8%9A%E7%89%88/) | 火狐浏览器电脑端专用              |
-| **Firefox 移动版**                | [点击前往 Firefox Add-ons 移动版](https://addons.mozilla.org/zh-CN/firefox/addon/ai智能答题助手-专业版/) | 火狐浏览器Andriod 手机/平板端专用 |
+| **Firefox 移动版**                | [点击前往 Firefox Add-ons 移动版](https://addons.mozilla.org/zh-CN/firefox/addon/ai智能答题助手-专业版/) | 火狐浏览器 Android 手机/平板端专用 |
 
 
 > **手动离线安装**：如无法访问商店，可在 Release 页面下载 `.crx` (Chrome) 或 `.xpi` (Firefox) 文件拖拽安装。
