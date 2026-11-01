@@ -6,7 +6,7 @@
 
 <p align="center">
   <img alt="Chrome 应用商店 2.0.3" src="https://img.shields.io/badge/Chrome_Store-v2.0.3-4285F4?style=flat-square&logo=googlechrome&logoColor=white">
-  <img alt="Firefox 2.0.3 审核中" src="https://img.shields.io/badge/Firefox_AMO-2.0.3_审核中-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white">
+  <img alt="Firefox 离线安装请先使用 2.0.2" src="https://img.shields.io/badge/Firefox-离线请先装_2.0.2-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white">
   <img alt="DeepSeek、Gemini、Kimi、Qwen、OpenRouter、LM Studio、Ollama" src="https://img.shields.io/badge/Models-DeepSeek%20%7C%20Gemini%20%7C%20Local-6E59F5?style=flat-square">
 </p>
 
@@ -26,7 +26,7 @@
 
 <img width="1280" height="800" alt="AI 智能答题助手 2.0.3：智能答题，更懂你的学习" src="https://github.com/user-attachments/assets/4f396142-9258-4118-9068-e8932681b66a">
 
-**Chrome 2.0.3 已在 Chrome 应用商店正式上线。** Firefox 2.0.3 仍在 Mozilla 审核，附加组件页面当前公开版本是 **2.0.2**。2.0.2 将于 **2026 年 12 月 31 日**下线，请尽快更新。
+**Chrome 2.0.3 已在 Chrome 应用商店正式上线。** Firefox 离线安装请先下载 [2.0.2](https://github.com/asaotomo/ai-study-copilot/releases/download/AI-Study-Copilot-Pro_V2.0.2/AI-Study-Copilot-Pro-Firefox_V2.0.2.xpi)。2.0.3 上线后，我们会更新并发布。Chrome 上的 2.0.2 将于 **2026 年 12 月 31 日**下线，请尽快更新到 2.0.3。
 
 AI 智能答题助手是面向自主练习、课程复习和学习资料整理的浏览器扩展。它可以整理当前网页中的题目与材料，给出参考答案和分步解析，并把学习成果留在灵感本或复习资料里。
 
@@ -154,8 +154,8 @@ AI 智能答题助手是面向自主练习、课程复习和学习资料整理�
 | 平台 | 当前状态 | 入口 |
 | --- | --- | --- |
 | **Chrome / Edge** | **2.0.3 已上线** | [前往 Chrome 应用商店](https://chromewebstore.google.com/detail/ai%E6%99%BA%E8%83%BD%E7%AD%94%E9%A2%98%E5%8A%A9%E6%89%8B-%E4%B8%93%E4%B8%9A%E7%89%88/eeionpcnekmdcaakfpdmfflejnfkeoab?hl=zh-CN) |
-| **Firefox** | **2.0.3 审核中**，商店公开版本仍为 2.0.2 | [查看 Firefox 附加组件页面](https://addons.mozilla.org/zh-CN/firefox/addon/ai%E6%99%BA%E8%83%BD%E7%AD%94%E9%A2%98%E5%8A%A9%E6%89%8B-%E4%B8%93%E4%B8%9A%E7%89%88/) |
-| **离线安装** | 提供 Chrome 2.0.3 安装包 | [GitHub Releases](https://github.com/asaotomo/ai-study-copilot/releases/tag/AI-Study-Copilot-Pro_V2.0.3) |
+| **Firefox 离线** | 请先安装 **2.0.2**；2.0.3 上线后我们会更新发布 | [下载 Firefox 2.0.2](https://github.com/asaotomo/ai-study-copilot/releases/download/AI-Study-Copilot-Pro_V2.0.2/AI-Study-Copilot-Pro-Firefox_V2.0.2.xpi) |
+| **Chrome 离线** | 提供 Chrome 2.0.3 安装包 | [GitHub Releases](https://github.com/asaotomo/ai-study-copilot/releases/tag/AI-Study-Copilot-Pro_V2.0.3) |
 
 已安装 Chrome 用户可以在扩展管理中检查更新，升级后刷新学习页面。
 
@@ -171,9 +171,14 @@ AI 智能答题助手是面向自主练习、课程复习和学习资料整理�
 
 若浏览器拦截商店外的安装包，请改从 Chrome 应用商店安装。
 
-### Firefox
+### Firefox 离线安装
 
-Firefox 2.0.3 尚未通过附加组件审核。本次发布不提供 Firefox 安装包，避免把仍在审核的版本当作已经可安装的正式版。请关注附加组件页面，审核通过后再更新。
+请先下载并安装 2.0.2：[AI-Study-Copilot-Pro-Firefox_V2.0.2.xpi](https://github.com/asaotomo/ai-study-copilot/releases/download/AI-Study-Copilot-Pro_V2.0.2/AI-Study-Copilot-Pro-Firefox_V2.0.2.xpi)（也可从 [2.0.2 发布页](https://github.com/asaotomo/ai-study-copilot/releases/tag/AI-Study-Copilot-Pro_V2.0.2) 进入）。
+
+1. 下载 `.xpi` 后，用 Firefox 打开该文件，或把它拖进 Firefox 窗口。
+2. 按提示完成安装，然后刷新学习页面。
+
+2.0.3 上线后，我们会更新这里的说明和安装包。届时再升级即可。
 
 ---
 
