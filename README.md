@@ -6,7 +6,7 @@
 
 <p align="center">
   <img alt="Chrome 应用商店 2.0.3" src="https://img.shields.io/badge/Chrome_Store-v2.0.3-4285F4?style=flat-square&logo=googlechrome&logoColor=white">
-  <img alt="Firefox 离线安装请先使用 2.0.2" src="https://img.shields.io/badge/Firefox-离线请先装_2.0.2-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white">
+  <img alt="Firefox 附加组件商店 2.0.3" src="https://img.shields.io/badge/Firefox-v2.0.3-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white">
   <img alt="DeepSeek、Gemini、Kimi、Qwen、OpenRouter、LM Studio、Ollama" src="https://img.shields.io/badge/Models-DeepSeek%20%7C%20Gemini%20%7C%20Local-6E59F5?style=flat-square">
 </p>
 
@@ -15,9 +15,9 @@
 <p align="center">识题、讲解、翻译、记录、复习。<br>你的学习，从此更连贯。</p>
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/ai%E6%99%BA%E8%83%BD%E7%AD%94%E9%A2%98%E5%8A%A9%E6%89%8B-%E4%B8%93%E4%B8%9A%E7%89%88/eeionpcnekmdcaakfpdmfflejnfkeoab?hl=zh-CN"><strong>安装 Chrome 2.0.3</strong></a>
+  <a href="https://chromewebstore.google.com/detail/ai%E6%99%BA%E8%83%BD%E7%AD%94%E9%A2%98%E5%8A%A9%E6%89%8B-%E4%B8%93%E4%B8%9A%E7%89%88/eeionpcnekmdcaakfpdmfflejnfkeoab?hl=zh-CN"><strong>Chrome 应用商店</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://addons.mozilla.org/zh-CN/firefox/addon/ai%E6%99%BA%E8%83%BD%E7%AD%94%E9%A2%98%E5%8A%A9%E6%89%8B-%E4%B8%93%E4%B8%9A%E7%89%88/">Firefox 商店</a>
+  <a href="https://addons.mozilla.org/zh-CN/firefox/addon/ai%E6%99%BA%E8%83%BD%E7%AD%94%E9%A2%98%E5%8A%A9%E6%89%8B-%E4%B8%93%E4%B8%9A%E7%89%88/"><strong>Firefox 附加组件商店</strong></a>
   &nbsp;·&nbsp;
   <a href="https://www.hx0.store/products/ai-copilot">产品页</a>
   &nbsp;·&nbsp;
@@ -26,7 +26,7 @@
 
 <img width="1280" height="800" alt="AI 智能答题助手 2.0.3：智能答题，更懂你的学习" src="https://github.com/user-attachments/assets/4f396142-9258-4118-9068-e8932681b66a">
 
-**Chrome 2.0.3 已在 Chrome 应用商店正式上线。** Firefox 离线安装请先下载 [2.0.2](https://github.com/asaotomo/ai-study-copilot/releases/download/AI-Study-Copilot-Pro_V2.0.2/AI-Study-Copilot-Pro-Firefox_V2.0.2.xpi)。2.0.3 上线后，我们会更新并发布。Chrome 上的 2.0.2 将于 **2026 年 12 月 31 日**下线，请尽快更新到 2.0.3。
+**Chromium 版与 Firefox 版均已上线 2.0.3。** Chrome、Edge、360 极速浏览器、QQ 浏览器和搜狗高速浏览器使用 Chromium 版，Firefox 使用独立安装包。Chrome 上的 2.0.2 将于 **2026 年 12 月 31 日**下线，请尽快更新到 2.0.3。
 
 AI 智能答题助手是面向自主练习、课程复习和学习资料整理的浏览器扩展。它可以整理当前网页中的题目与材料，给出参考答案和分步解析，并把学习成果留在灵感本或复习资料里。
 
@@ -151,34 +151,27 @@ AI 智能答题助手是面向自主练习、课程复习和学习资料整理�
 
 ## 安装
 
-| 平台 | 当前状态 | 入口 |
+| 平台 | 商店安装 | 离线安装 |
 | --- | --- | --- |
-| **Chrome / Edge** | **2.0.3 已上线** | [前往 Chrome 应用商店](https://chromewebstore.google.com/detail/ai%E6%99%BA%E8%83%BD%E7%AD%94%E9%A2%98%E5%8A%A9%E6%89%8B-%E4%B8%93%E4%B8%9A%E7%89%88/eeionpcnekmdcaakfpdmfflejnfkeoab?hl=zh-CN) |
-| **Firefox 离线** | 请先安装 **2.0.2**；2.0.3 上线后我们会更新发布 | [下载 Firefox 2.0.2](https://github.com/asaotomo/ai-study-copilot/releases/download/AI-Study-Copilot-Pro_V2.0.2/AI-Study-Copilot-Pro-Firefox_V2.0.2.xpi) |
-| **Chrome 离线** | 提供 Chrome 2.0.3 安装包 | [GitHub Releases](https://github.com/asaotomo/ai-study-copilot/releases/tag/AI-Study-Copilot-Pro_V2.0.3) |
+| **Chromium 2.0.3**（Chrome、Edge、360 极速、QQ、搜狗高速等） | [Chrome 应用商店](https://chromewebstore.google.com/detail/ai%E6%99%BA%E8%83%BD%E7%AD%94%E9%A2%98%E5%8A%A9%E6%89%8B-%E4%B8%93%E4%B8%9A%E7%89%88/eeionpcnekmdcaakfpdmfflejnfkeoab?hl=zh-CN) | [下载 `.crx`](https://github.com/asaotomo/ai-study-copilot/releases/download/AI-Study-Copilot-Pro_V2.0.3/AI-Study-Copilot-Pro-Chrome_V2.0.3.crx) |
+| **Firefox 2.0.3** | [Firefox 附加组件商店](https://addons.mozilla.org/zh-CN/firefox/addon/ai%E6%99%BA%E8%83%BD%E7%AD%94%E9%A2%98%E5%8A%A9%E6%89%8B-%E4%B8%93%E4%B8%9A%E7%89%88/) | [下载 `.xpi`](https://github.com/asaotomo/ai-study-copilot/releases/download/AI-Study-Copilot-Pro_V2.0.3/AI-Study-Copilot-Pro-Firefox_V2.0.3.xpi) |
 
-已安装 Chrome 用户可以在扩展管理中检查更新，升级后刷新学习页面。
+Chromium 版适用于桌面版 Google Chrome、Microsoft Edge、360 极速浏览器、QQ 浏览器和搜狗高速浏览器。其他 Chromium 浏览器也可安装，前提是支持 Chrome 扩展（Manifest V3），且安装策略允许。使用双核浏览器时，请将学习页面切换到极速／高速模式（Chromium 内核）。
 
-升级前请备份账户 ID，并单独导出历史、灵感本和附件。升级后使用原 ID 联网刷新权益。换设备时，本地资料需要另行导入。
+已安装用户可以在浏览器的扩展管理中检查更新，升级后刷新学习页面。升级前请备份账户 ID，并单独导出历史、灵感本和附件。升级后使用原 ID 联网刷新权益。换设备时，本地资料需要另行导入。
 
-### Chrome 离线包
+### Chromium 版
 
-[v2.0.3 Release](https://github.com/asaotomo/ai-study-copilot/releases/tag/AI-Study-Copilot-Pro_V2.0.3) 提供 `AI-Study-Copilot-Pro-Chrome_V2.0.3.crx`。
+Chrome 可直接从 Chrome 应用商店安装。Edge 打开商店页面后，按提示允许来自其他商店的扩展。其他 Chromium 浏览器可按各自的扩展安装方式操作。
 
-1. 打开 `chrome://extensions/`。
-2. 打开右上角「开发者模式」。
-3. 将 `.crx` 文件拖入页面，按提示安装。
+离线包为 [AI-Study-Copilot-Pro-Chrome_V2.0.3.crx](https://github.com/asaotomo/ai-study-copilot/releases/download/AI-Study-Copilot-Pro_V2.0.3/AI-Study-Copilot-Pro-Chrome_V2.0.3.crx)。若浏览器允许手动安装 `.crx`，可打开扩展管理页（Chrome 为 `chrome://extensions/`，Edge 为 `edge://extensions/`），开启开发者模式，将下载的文件拖入页面并按提示安装。若浏览器拦截离线包，请使用其支持的商店安装方式。
 
-若浏览器拦截商店外的安装包，请改从 Chrome 应用商店安装。
+### Firefox 版
 
-### Firefox 离线安装
+Firefox 用户可从 [Firefox 附加组件商店](https://addons.mozilla.org/zh-CN/firefox/addon/ai%E6%99%BA%E8%83%BD%E7%AD%94%E9%A2%98%E5%8A%A9%E6%89%8B-%E4%B8%93%E4%B8%9A%E7%89%88/) 安装或更新，也可下载签名的 `.xpi` 手动安装。桌面版需要 Firefox 128 或更新版本。
 
-请先下载并安装 2.0.2：[AI-Study-Copilot-Pro-Firefox_V2.0.2.xpi](https://github.com/asaotomo/ai-study-copilot/releases/download/AI-Study-Copilot-Pro_V2.0.2/AI-Study-Copilot-Pro-Firefox_V2.0.2.xpi)（也可从 [2.0.2 发布页](https://github.com/asaotomo/ai-study-copilot/releases/tag/AI-Study-Copilot-Pro_V2.0.2) 进入）。
-
-1. 下载 `.xpi` 后，用 Firefox 打开该文件，或把它拖进 Firefox 窗口。
-2. 按提示完成安装，然后刷新学习页面。
-
-2.0.3 上线后，我们会更新这里的说明和安装包。届时再升级即可。
+1. 下载 [AI-Study-Copilot-Pro-Firefox_V2.0.3.xpi](https://github.com/asaotomo/ai-study-copilot/releases/download/AI-Study-Copilot-Pro_V2.0.3/AI-Study-Copilot-Pro-Firefox_V2.0.3.xpi)。
+2. 用 Firefox 打开或将文件拖入 Firefox 窗口，按提示安装，然后刷新学习页面。
 
 ---
 
